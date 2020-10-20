@@ -1,0 +1,68 @@
+[[professional-experience]]
+= icon:suitcase[] Expériences professionnelles
+
+== Consultant en informatique chez {Wijin}
+
+icon:calendar[] `Février 2020 à Octobre 2020`::
+
+- CDI
+
+icon:group[] `Équipe (~3/4 personnes)`::
+
+icon:briefcase[] `Travaux réalisés`::
+
+- Réalisation d'un site internet à destination des employés de Groupama Loire Bretagne. Celui-ci leur permet de consulter leur bilan social individuel ({Vue}, {Nuxt}, {Java}, {Spring}).
+
+- Maintenance et évolution d'une application web permettant de gérer des techniciens sur une carte intéractive pour Enedis. ({Java}, {Spring}, {Angular}, {Leaflet}).
+
+- Réalisation d'un site internet pour présenter accessi.pro, ses objectifs, ses outils et ses formations ({Angular})
+
+== Développeur Android chez {ITLink}
+
+icon:calendar[] `Octobre 2019 à Janvier 2020`::
+
+- CDI
+
+icon:calendar[] `Septembre 2018 à Octobre 2019`::
+
+- Contrat en alternance
+
+icon:group[] `Équipe (~5 personnes)`::
+
+icon:briefcase[] `Travaux réalisés`::
+
+- Réalisation d'une application mobile à destination des agriculteurs. Celle-ci permet aux agriculteurs de gérer leurs employés, leurs parcelles ainsi que les produits phytosanitaires qu'ils répandent. ({Kotlin}, {Android}, {Realm})
+
+- Réalisation d'une application mobile à destination des forces de l'ordre. Celle-ci permet à des agents de terrain de pouvoir communiquer divers médias (textes, audio, vidéo, photo, streaming) à un centre de commandement. ({Kotlin}, {Android}, {Wowza})
+
+- Refonte et maintenance d'une application mobile à destination des agents de la SNCF. Celle-ci permet à des agents de terrain de pouvoir déclencher des alertes de différentes manières dans des situations d'urgence ({Android}, {Kotlin}, {Spekt}, {BDD}, {CleanArchitecture})
+
+== Développeur Java en alternance chez {Capgemini}
+
+icon:calendar[] `Septembre 2017 à Septembre 2018`::
+
+icon:group[] `Équipe (~10 personnes)`::
+
+icon:briefcase[] `Travail réalisé`::
+
+Maintenance et évolution des démarches en lignes du Service Public ({Java}, {Spring}, {Thymeleaf})
+
+== Développeur Android en alternance chez Shopus
+
+icon:calendar[] `Septembre 2016 à Juillet 2017`::
+
+icon:group[] `Seul`::
+
+icon:briefcase[] `Travail réalisé`::
+
+Maintenance et évolution d'une application mobile native à destination des particuliers. L'application met en relation des personnes souhaitant vendre ou acheter des biens d'occasions. ({Java}, {Android})
+
+== Développeur Natural chez {PolymontIT}
+
+icon:calendar[] `Septembre 2016 à Juillet 2017`::
+
+icon:group[] `Équipe (~5 personnes)`::
+
+icon:briefcase[] `Travail réalisé`::
+
+Maintenance des logiciels pour les assurances.

@@ -1,0 +1,19 @@
+[[technical-skills]]
+= icon:plug[] Compétences techniques
+
+* Développement
+** {Android}
+** {Java} 
+** {Kotlin}
+** {Dart}
+* Méthodologies  
+** {TDD}
+** {BDD}
+** {DDD}
+* Architecture de système 
+** {CleanArchitecture}
+* Architectures de présentation
+** {MVC}
+** {MVP}
+** {MVVM}
+** {MVI}

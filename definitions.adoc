@@ -1,0 +1,38 @@
+// My personal data
+:MyID: link:callto:corentin.leffy[corentin.leffy]
+:MyPhone: link:tel:+33610462051[+33610462051]
+:MyEmail: mailto:corentin.leffy@gmail.com[corentin.leffy@gmail.com]
+:MyLocation: France/Rennes
+
+// Companies
+:Capgemini: {uri-capgemini}[Capgemini]
+:ITLink: {uri-itlink}[Groupe IT Link]
+:PolymontIT: {uri-polymont}[Polymont IT Services]
+:Wijin: {uri-wijin}[Wijin]
+
+// Education
+:IMIE: icon:university[] {uri-imie}[IMIE - École de la Filière Numérique]
+:DUT: icon:university[] {uri-dut}[IUT Informatique à Aubière]
+
+// Tech
+:Android: {uri-android}[Android]
+:Angular: {uri-angular}[Angular]
+:BDD: {uri-bdd}[BDD]
+:CleanArchitecture: {uri-clean-architecture}[Clean Architecture]
+:Dart: {uri-dart}[Dart]
+:DDD: {uri-ddd}[DDD]
+:Java: {uri-java}[Java]
+:Kotlin: {uri-kotlin}[Kotlin]
+:Leaflet: {uri-leaftlet}[Leaflet]
+:MVC: {uri-mvc}[MVC]
+:MVP: {uri-mvp}[MVP]
+:MVVM: {uri-mvvm}[MVVM]
+:MVI: {uri-mvi}[MVI]
+:Nuxt: {uri-nuxt}[Nuxt]
+:Spekt: {uri-spekt}[Spekt]
+:Spring: {uri-spring}[Spring]
+:Realm: {uri-realm}[Realm]
+:TDD: {uri-tdd}[TDD]
+:Thymeleaf: {uri-thymeleaf}[Thymeleaf]
+:Vue: {uri-vue}[Vue]
+:Wowza: {uri-wowza}[Wowza]

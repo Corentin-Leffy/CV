@@ -1,0 +1,31 @@
+= Corentin LEFFY - Développeur Android
+Corentin LEFFY <corentin.leffy@gmail.com>
+
+include::uris.adoc[]
+include::definitions.adoc[]
+
+:toc2:
+:toclevels: 2
+:icons: font
+:iconfont-cdn: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+:linkattrs:
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:attribute-missing: warn
+
+:leveloffset: +1
+
+include::personal-details/index.adoc[]
+
+include::professional-experience/index.adoc[]
+
+include::education/index.adoc[]
+
+include::technical-skills/index.adoc[]
+
+include::certification/index.adoc[]
+
+:leveloffset: -1

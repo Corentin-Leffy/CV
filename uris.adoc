@@ -1,0 +1,39 @@
+:uri-corentinleffy: http://paulojeronimo.com
+:uri-corentinleffy-location: https://goo.gl/maps/joJ1Q7p3eK4hedE57
+
+:uri-corentinleffy-github: https://github.com/Corentin-Leffy
+:uri-corentinleffy-linkedin: https://www.linkedin.com/in/corentin-leffy/
+
+// Companies
+:uri-capgemini: https://www.capgemini.com
+:uri-itlink: https://itlink.fr
+:uri-polymont: https://www.polymont-itservices.fr
+:uri-wijin: https://www.wijin.tech
+
+// Education
+:uri-imie: https://www.linkedin.com/school/imie/
+:uri-dut: https://www.iut-clermont.fr/formations/dut-informatique/
+
+// Tech
+:uri-android: https://www.android.com
+:uri-angular: https://angular.io
+:uri-bdd: https://en.wikipedia.org/wiki/Behavior-driven_developmenta
+:uri-clean-architecture: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+:uri-dart: http://dart.dev
+:uri-ddd: https://en.wikipedia.org/wiki/Domain-driven_design
+:uri-java: https://www.java.com/en/
+:uri-kotlin: https://kotlinlang.org
+:uri-leaftlet: https://leafletjs.com
+:uri-mvc: https://fr.wikipedia.org/wiki/Modèle-vue-contrôleur
+:uri-mvp: https://en.wikipedia.org/wiki/Model–view–presenter
+:uri-mvvm: https://en.wikipedia.org/wiki/Model–view–viewmodel
+:uri-mvi: https://proandroiddev.com/the-contract-of-the-model-view-intent-architecture-777f95706c1e
+:uri-nuxt: https://nuxtjs.org
+:uri-pae: https://eu.badgr.com/public/assertions/b-DSWlooSAySgEhqtvkXsg
+:uri-spekt: https://spekt.github.io
+:uri-spring: https://spring.io
+:uri-realm: https://realm.io
+:uri-tdd: https://fr.wikipedia.org/wiki/Test_driven_development
+:uri-thymeleaf: https://www.thymeleaf.org
+:uri-vue: https://vuejs.orgs
+:uri-wowza: https://www.wowza.com

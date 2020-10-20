@@ -1,0 +1,29 @@
+= icon:graduation-cap[] Formation
+
+[[my-academic-background]]
+== Formation universitaire
+
+{IMIE}::
+Chef de projet en conception de systèmes informatiques (niveau 1) +
+_Rennes_ +
+2018 - 2019 +
+**Majeures :** Cybersécurité développeurs, IA, Big Data, RV/RA
+
+{IMIE}::
+Concepteur développeur en projets numériques (niveau 2) +
+_Rennes_ +
+2016 - 2018 +
+**Spécialité développement mobile**
+
+{DUT}::
+DUT Informatique (niveau 3) +
+_Aubière_ +
+2012 - 2015 +
+**Spécialité développement Android**
+
+== Langue
+
+* Français: natif
+* Anglais: 
+** courant (lu) ; 
+** intermédiaire (écrit, parlé)
